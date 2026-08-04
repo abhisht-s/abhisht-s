@@ -1,11 +1,57 @@
-# About Me:
-I solve problems and build products
+Abhisht Shrivastava
 
+Product engineer building production systems, developer tools and AI-native products.
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisht_0603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisht1809@gmail.com) 
+I work across product, mobile, backend and infrastructure, with a focus on taking difficult ideas from architecture to working software.
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
+Currently building:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Pls Touch Grass — a location-based social events product for discovering and joining real-world hangouts.
+* Clxrity — a student operating system used across two campuses by more than 200 students.
+* CRAX — a supervised orchestration system that connects ChatGPT and Codex into a continuous implementation and review loop.
+
+Selected work
+
+CRAX
+
+A local agent orchestration system that allows ChatGPT to plan and review work while Codex operates inside a repository.
+
+CRAX includes guarded prompt extraction, workspace permissions, run supervision, remote control over a private Tailscale network, device pairing, credential rotation, interruption handling and explicit approval gates.
+
+Built with: Python, local HTTP services, macOS Accessibility APIs, Codex CLI and Tailscale.
+
+View repository
+
+Pls Touch Grass
+
+A production iOS social platform for finding and joining local hangouts.
+
+I have worked across the Swift client, authentication, media infrastructure, push notifications, location verification, moderation, account deletion, App Store compliance and backend integrations.
+
+Built with: Swift, Supabase, Firebase, AWS, Cloudflare Workers and PostgreSQL.
+
+The production repository is private. Technical architecture and selected engineering case studies are available below.
+
+Clxrity
+
+A campus calendar and student productivity platform serving more than 200 users across two campuses.
+
+The system ingests institution-managed timetable sources, parses irregular schedules and publishes structured calendar events while preserving source-level reconciliation and auditability.
+
+Built with: TypeScript, Node.js, PostgreSQL, Google Sheets APIs and calendar integrations.
+
+Engineering case studies
+
+* Designing per-device push notification delivery
+* Building quarantine-first media moderation
+* Safely reconciling external timetable data
+* Implementing account deletion across multiple identity providers
+* Designing guarded autonomous coding workflows
+
+What I care about
+
+I enjoy ambiguous engineering problems where product behaviour, infrastructure, security and operational constraints must be designed together. I am especially interested in early-stage teams where engineers own outcomes rather than isolated tickets.
+
+Contact
+
+* Email: abhisht1809@gmail.com
